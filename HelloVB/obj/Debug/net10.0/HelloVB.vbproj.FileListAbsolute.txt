@@ -1,0 +1,14 @@
+/Users/mikoto/Desktop/自学/HelloVB/bin/Debug/net10.0/HelloVB
+/Users/mikoto/Desktop/自学/HelloVB/bin/Debug/net10.0/HelloVB.deps.json
+/Users/mikoto/Desktop/自学/HelloVB/bin/Debug/net10.0/HelloVB.runtimeconfig.json
+/Users/mikoto/Desktop/自学/HelloVB/bin/Debug/net10.0/HelloVB.dll
+/Users/mikoto/Desktop/自学/HelloVB/bin/Debug/net10.0/HelloVB.pdb
+/Users/mikoto/Desktop/自学/HelloVB/obj/Debug/net10.0/HelloVB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikoto/Desktop/自学/HelloVB/obj/Debug/net10.0/HelloVB.AssemblyInfoInputs.cache
+/Users/mikoto/Desktop/自学/HelloVB/obj/Debug/net10.0/HelloVB.AssemblyInfo.vb
+/Users/mikoto/Desktop/自学/HelloVB/obj/Debug/net10.0/HelloVB.vbproj.CoreCompileInputs.cache
+/Users/mikoto/Desktop/自学/HelloVB/obj/Debug/net10.0/HelloVB.dll
+/Users/mikoto/Desktop/自学/HelloVB/obj/Debug/net10.0/refint/HelloVB.dll
+/Users/mikoto/Desktop/自学/HelloVB/obj/Debug/net10.0/HelloVB.pdb
+/Users/mikoto/Desktop/自学/HelloVB/obj/Debug/net10.0/HelloVB.genruntimeconfig.cache
+/Users/mikoto/Desktop/自学/HelloVB/obj/Debug/net10.0/ref/HelloVB.dll

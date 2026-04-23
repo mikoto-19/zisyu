@@ -1,0 +1,14 @@
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題⑤/bin/Debug/net10.0/問題⑤
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題⑤/bin/Debug/net10.0/問題⑤.deps.json
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題⑤/bin/Debug/net10.0/問題⑤.runtimeconfig.json
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題⑤/bin/Debug/net10.0/問題⑤.dll
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題⑤/bin/Debug/net10.0/問題⑤.pdb
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題⑤/obj/Debug/net10.0/問題⑤.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題⑤/obj/Debug/net10.0/問題⑤.AssemblyInfoInputs.cache
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題⑤/obj/Debug/net10.0/問題⑤.AssemblyInfo.vb
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題⑤/obj/Debug/net10.0/問題⑤.vbproj.CoreCompileInputs.cache
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題⑤/obj/Debug/net10.0/問題⑤.dll
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題⑤/obj/Debug/net10.0/refint/問題⑤.dll
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題⑤/obj/Debug/net10.0/問題⑤.pdb
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題⑤/obj/Debug/net10.0/問題⑤.genruntimeconfig.cache
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題⑤/obj/Debug/net10.0/ref/問題⑤.dll
