@@ -1,0 +1,15 @@
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題49/obj/Debug/net10.0/問題49.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題49/obj/Debug/net10.0/問題49.AssemblyInfoInputs.cache
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題49/obj/Debug/net10.0/問題49.AssemblyInfo.vb
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題49/obj/Debug/net10.0/問題49.vbproj.CoreCompileInputs.cache
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題49/obj/Debug/net10.0/問題49.sourcelink.json
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題49/bin/Debug/net10.0/問題49
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題49/bin/Debug/net10.0/問題49.deps.json
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題49/bin/Debug/net10.0/問題49.runtimeconfig.json
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題49/bin/Debug/net10.0/問題49.dll
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題49/bin/Debug/net10.0/問題49.pdb
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題49/obj/Debug/net10.0/問題49.dll
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題49/obj/Debug/net10.0/refint/問題49.dll
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題49/obj/Debug/net10.0/問題49.pdb
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題49/obj/Debug/net10.0/問題49.genruntimeconfig.cache
+/Users/mikoto/Desktop/自学/vb.net学習/練習問題２/問題49/obj/Debug/net10.0/ref/問題49.dll
